@@ -94,7 +94,7 @@ function App() {
         <button disabled={isSubmitting}>Post</button>
       </form>
       <br />
-      <WordCloud data={messages} />
+      {messages.length > 0 && <WordCloud data={messages} />}
     </div>
   );
 }
