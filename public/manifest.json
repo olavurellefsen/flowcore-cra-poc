@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Flowcore CRA POC",
+  "name": "Flowcore - Create React App - Proof of Concept",
   "icons": [
     {
       "src": "favicon.ico",
